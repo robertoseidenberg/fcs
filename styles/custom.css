@@ -1,0 +1,163 @@
+html {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  margin: 24px;
+}
+
+body {
+  background-color: #f9f9f9;
+}
+
+header {
+  margin-bottom: 24px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+button {
+  height: 10px;
+}
+
+a {
+  font-weight: bold;
+  color: black;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+a:hover {
+  background-color: yellow;
+  color: black;
+}
+
+div {
+  font-size: 12px;
+  margin: O;
+  padding: 6px;
+  font-weight: light;
+  width: auto;
+  display: inline-block;
+}
+
+img {
+  display: block;
+  max-height: 600px;
+  max-width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.black {
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 1);
+  color: white;
+}
+
+.blue {
+  font-weight: bold;
+  background-color: rgba(18, 15, 92, 1);
+  color: white;
+}
+
+.blue {
+  font-weight: bold;
+  background-color: rgba(18, 15, 92, 1);
+  color: white;
+}
+
+.blue_o90 {
+  background-color: rgba(18, 15, 92, 0.9);
+  color: white;
+}
+
+.blue_o80 {
+  background-color: rgba(18, 15, 92, 0.8);
+  color: white;
+}
+
+.blue_o70 {
+  background-color: rgba(18, 15, 92, 0.7);
+  color: white;
+}
+
+.blue_o60 {
+  background-color: rgba(18, 15, 92, 0.6);
+  color: white;
+}
+
+.blue_o50 {
+  background-color: rgba(18, 15, 92, 0.5);
+  color: white;
+}
+
+.blue_o40 {
+  background-color: rgba(18, 15, 92, 0.4);
+  color: white;
+}
+
+.blue_o30 {
+  background-color: rgba(18, 15, 92, 0.3);
+  color: white;
+}
+
+.blue_o20 {
+  background-color: rgba(18, 15, 92, 0.2);
+  color: black;
+}
+
+.petrol {
+  font-weight: bold;
+  background-color: rgba(63, 95, 124, 1);
+  color: white;
+}
+
+.petrol_o90 {
+  background-color: rgba(63, 95, 124, 0.9);
+  color: white;
+}
+
+.petrol_o80 {
+  background-color: rgba(63, 95, 124, 0.8);
+  color: white;
+}
+
+.petrol_o70 {
+  background-color: rgba(63, 95, 124, 0.7);
+  color: white;
+}
+
+.petrol_o60 {
+  background-color: rgba(63, 95, 124, 0.6);
+  color: white;
+}
+
+.petrol_o50 {
+  background-color: rgba(63, 95, 124, 0.5);
+  color: white;
+}
+
+.petrol_o40 {
+  background-color: rgba(63, 95, 124, 0.4);
+  color: white;
+}
+
+.petrol_o30 {
+  background-color: rgba(63, 95, 124, 0.3);
+  color: white;
+}
+
+.petrol_o20 {
+  background-color: rgba(63, 95, 124, 0.2);
+  color: black;
+}
+
+.whitetext {
+  color: white;
+}
